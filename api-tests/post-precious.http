@@ -1,0 +1,7 @@
+POST http://localhost:8080/precious
+Content-Type: application/json
+
+{
+    "name": "my kawaii api",
+    "key": "my super sugoii api"
+}
